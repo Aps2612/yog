@@ -12,13 +12,13 @@ const cors = require('cors');
 
 
 app.options('*', cors({
-  origin: 'https://6581aadae11f291b0c35bcdb--heartfelt-fenglisu-8e29a3.netlify.app/',
+  origin: 'https://6581b5a5e552d0261af9cfa1--coruscating-custard-e960a7.netlify.app/',
   credentials: true,
 }));
 
 
 app.use(cors({
-  origin: "https://6581aadae11f291b0c35bcdb--heartfelt-fenglisu-8e29a3.netlify.app/",
+  origin: "https://6581b5a5e552d0261af9cfa1--coruscating-custard-e960a7.netlify.app/",
   credentials: true,
 })); 
 // ""
