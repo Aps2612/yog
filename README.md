@@ -2,7 +2,7 @@
 ![Screenshot (480)](https://github.com/Aps2612/yog/assets/91000024/8e8172e0-8b08-4813-ae1c-e82cb1331338)
 ![Screenshot (479)](https://github.com/Aps2612/yog/assets/91000024/990397fb-3e60-4987-8402-5fe2a3407497)
 ![Screenshot (481)](https://github.com/Aps2612/yog/assets/91000024/98bf61d5-5749-4870-8237-5387260a1b2f)
-![ER-diagram drawio](https://github.com/Aps2612/yog/assets/91000024/820a98f6-4c67-4cbf-a9c5-01b37632ccae)
+
 
 
 
